@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SovHimTehApp</string>
+    <string name="title_name">Введите данные:</string>
+    <string name="btn_name">Рассчитать</string>
+    <string name="text_result"></string>
+    <string name="plotnost">Плотность</string>
+    <string name="temperature">Температура</string>
+</resources>
